@@ -41,12 +41,12 @@ alt="nodejs" width="40" height="40"/> </a>
 <h3> Estatísticas </h3>
 <img
     align="left"
-    style="padding-right: 10px"
-    height="195"   
+    style="padding-right: 5px"
+    height="193"   
     src="https://github-readme-stats.vercel.app/api?username=anacletojunior&include_all_commits=true&show_icons=true&theme=shades-of-purple"
 /> 
 <img
      align="left"
-    height="195"    
+    height="193"    
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacletojunior&layout=compact&theme=shades-of-purple"
 />
