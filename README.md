@@ -42,11 +42,11 @@ alt="nodejs" width="40" height="40"/> </a>
 <img
     align="left"
     style="padding-right: 10px"
-    height="150"   
+    height="180"   
     src="https://github-readme-stats.vercel.app/api?username=anacletojunior&include_all_commits=true&show_icons=true&theme=shades-of-purple"
 /> 
 <img
      align="left"
-    height="150"    
+    height="180"    
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacletojunior&layout=compact&theme=shades-of-purple"
 />
